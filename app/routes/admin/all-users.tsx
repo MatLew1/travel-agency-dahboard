@@ -1,6 +1,15 @@
+import { Header } from "components"
+
 const AllUsers = () => {
   return (
-    <div>Tabela urzytkowników</div>
+    <main className="dashboard wrapper">
+      <Header
+        title="Urzytkownicy"
+        description="Przeglądaj urzytkowników w czasie rzeczywistym"
+      />
+
+      Wszyscy Urzytkownicy
+    </main>
   )
 }
 
