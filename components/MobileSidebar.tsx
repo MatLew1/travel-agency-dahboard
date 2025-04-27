@@ -21,7 +21,7 @@ const MobileSidebar = () => {
             className="size-[30px]"  
           />
 
-          <h1>Zwiedzanie</h1>
+          <h1>West Coast Swing Polska</h1>
         </Link>
 
         
